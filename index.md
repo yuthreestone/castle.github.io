@@ -34,4 +34,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ## 想和我交朋友？
 
-因为我还没有自己的手机和邮箱，如果您想和我交朋友，请给我的爸爸发邮件吧，他会第一时间转告我的。他的邮箱地址是：[yuthreestone@gmail.com]; [yuthreestone@163.com]; [yulei@sxu.edu.cn]。
+因为我还没有自己的手机和邮箱，如果您想和我交朋友，请给我的爸爸发邮件吧，他会第一时间转告我的。他的邮箱地址是：[yuthreestone@gmail.com](yuthreestone@gmail.com); [yuthreestone@163.com](yuthreestone@163.com); [yulei@sxu.edu.cn](yulei@sxu.edu.cn)。
