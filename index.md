@@ -1,6 +1,8 @@
 # 自我介绍（Self Introduction）
 
 大家好，欢迎来到我的个人主页！
+
+我的网名叫Castle，今年7岁啦，正在读小学一年级。我非常喜欢编程，两年前，我开始学习Scratch，
 Hi, welcome to my GitHub Pages
 
 Hello, I'm Castle, a seven-years old boy. I like coding very much.
