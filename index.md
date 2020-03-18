@@ -11,6 +11,9 @@
 ![父与子的编程之旅封面](https://images.manning.com/720/960/resize/book/b/9d49e8b-b516-460e-992b-e3d64d483f06/sande.png)
 
 ```markdown
+
+
+```markdown
 Syntax highlighted code block
 
 # Header 1
@@ -25,13 +28,12 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## Scratch学习之旅
 
+'print("Hello World")'
+
+`Code` print("Hello World")
 
 ## 想和我交朋友？
 
