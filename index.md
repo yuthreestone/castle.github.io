@@ -15,13 +15,16 @@
 [**第二章 记住内存和变量**]
 
 
+未完待续...
+
+# Python作品集合
 
 
-## Scratch学习之旅
+## Scratch作品集合
 
-'print("Hello World")'
+[**1. 识相全能**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=2413140&version=3.0)
 
-`print("Hello World")`
+[**2. 水果忍者**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=2384576&version=3.0)
 
 ## 想和我交朋友？
 
