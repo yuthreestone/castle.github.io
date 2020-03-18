@@ -2,7 +2,7 @@
 
 大家好，欢迎来到我的个人主页！
 
-我的网名叫Castle，今年7岁啦，正在读小学一年级。我非常喜欢编程，当我还是5岁的时候，我已经开始学习[Scratch](https://scratch.mit.edu/)了。现在，我刚刚开始学习[Python](https://www.python.org/)。为了能够详细记录我的Python学习之旅，爸爸特意在[Github](https://github.com/)网站帮我建立了这个[主页](https://yuthreestone.github.io/castle.github.io/)，希望大家能够喜欢，谢谢。
+我的网名叫Castle，今年7岁啦，正在读小学一年级。我非常喜欢数学和编程，当我还是5岁的时候，我就开始学习[Scratch](https://scratch.mit.edu/)了。现在，我刚刚开始学习[Python](https://www.python.org/)。为了详细记录我的Python学习之旅，爸爸特意在[Github](https://github.com/)网站帮我建立了这个[主页](https://yuthreestone.github.io/castle.github.io/)，希望大家能够喜欢，谢谢。
 
 
 ### Markdown
