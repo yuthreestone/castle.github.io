@@ -2,14 +2,8 @@
 
 大家好，欢迎来到我的个人主页！
 
-我的网名叫Castle，今年7岁啦，正在读小学一年级。我非常喜欢编程，两年前，我开始学习Scratch，
-Hi, welcome to my GitHub Pages
+我的网名叫Castle，今年7岁啦，正在读小学一年级。我非常喜欢编程，当我还是5岁的时候，我已经开始学习[Scratch](https://scratch.mit.edu/)了。现在，我刚刚开始学习[Python](https://www.python.org/)。为了能够详细记录我的Python学习之旅，爸爸特意在[Github](https://github.com/)网站帮我建立了这个[主页](https://yuthreestone.github.io/castle.github.io/)，希望大家能够喜欢，谢谢。
 
-Hello, I'm Castle, a seven-years old boy. I like coding very much.
-
-You can use the [editor on GitHub](https://github.com/yuthreestone/castle.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
