@@ -8,6 +8,7 @@
 ## Python学习之旅
 
 我正在学习的是[《父与子的编程之旅(与小卡特一起学Python)》](https://www.manning.com/books/hello-world?)这本书，中文翻译版本可以在[京东](https://item.jd.com/11576833.html)上买到哦，这本书配套的源代码可以点击这里[下载](https://github.com/yuthreestone/castle.github.io/blob/master/%E3%80%8A%E7%88%B6%E4%B8%8E%E5%AD%90%E7%9A%84%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%97%85%E3%80%8B%E9%85%8D%E5%A5%97%E6%BA%90%E4%BB%A3%E7%A0%81.rar)。
+![图书](https://images.manning.com/720/960/resize/book/b/9d49e8b-b516-460e-992b-e3d64d483f06/sande.png)
 
 ```markdown
 Syntax highlighted code block
