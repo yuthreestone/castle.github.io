@@ -33,7 +33,7 @@ Syntax highlighted code block
 
 'print("Hello World")'
 
-`Code` print("Hello World")
+`print("Hello World")`
 
 ## 想和我交朋友？
 
