@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages
+
+Hello, I'm Castle, a seven-years old boy. I like coding very much.
 
 You can use the [editor on GitHub](https://github.com/yuthreestone/castle.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
