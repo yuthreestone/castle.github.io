@@ -1,7 +1,6 @@
 # 自我介绍（Self Introduction）
 
 大家好，欢迎来到我的个人主页！
-
 Hi, welcome to my GitHub Pages
 
 Hello, I'm Castle, a seven-years old boy. I like coding very much.
