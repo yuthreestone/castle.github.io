@@ -1,4 +1,4 @@
-## 自我介绍
+## 我是谁？
 
 大家好，欢迎来到我的个人主页！
 
@@ -32,6 +32,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Scratch学习之旅
 
 
-### 联系我
+### 想和我交朋友？
 
-因为我还没有自己的手机和邮箱，如果您想联系我的话，请给我的爸爸发邮件吧，他的邮箱地址是：[yuthreestone@gmail.com];[yuthreestone@163.com];[yulei@sxu.edu.cn]。
+因为我还没有自己的手机和邮箱，如果您想和我交朋友的话，请给我的爸爸发邮件吧，他会第一时间转告我的。他的邮箱地址是：[yuthreestone@gmail.com];[yuthreestone@163.com];[yulei@sxu.edu.cn]。
