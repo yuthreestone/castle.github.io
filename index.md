@@ -17,8 +17,11 @@
 
 未完待续...
 
-# Python作品集合
+## Python作品集合
 
+  [**1. 数字图书馆**](https://code.xueersi.com/home/project/detail?lang=code&pid=4506880&version=python&form=python)
+  
+  [**2. 成语接龙**](https://code.xueersi.com/home/project/detail?lang=code&pid=4367794&version=python&form=python)
 
 ## Scratch作品集合
 
