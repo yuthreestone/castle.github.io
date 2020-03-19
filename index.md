@@ -19,17 +19,31 @@
 
 ## Python作品集合
 
-  [**1. 数字图书馆**](https://code.xueersi.com/home/project/detail?lang=code&pid=4506880&version=python&form=python)
+  [**09. 数字图书馆**](https://code.xueersi.com/home/project/detail?lang=code&pid=4506880&version=python&form=python)
   
-  [**2. 成语接龙**](https://code.xueersi.com/home/project/detail?lang=code&pid=4367794&version=python&form=python)
+  [**08. 成语接龙**](https://code.xueersi.com/home/project/detail?lang=code&pid=4367794&version=python&form=python)
+  
+  [**07. 风速查询-天气助手**](https://code.xueersi.com/home/project/detail?lang=code&pid=4229804&version=python&form=python)
+
+  [**06. 定时提醒小程序-每日计划机器人**](https://code.xueersi.com/home/project/detail?lang=code&pid=4107358&version=python&form=python)
+
+  [**05. 千层蛋糕**](https://code.xueersi.com/home/project/detail?lang=code&pid=4012494&version=python&form=python)
+
+  [**04. 四位数验证码**](https://code.xueersi.com/home/project/detail?lang=code&pid=3991193&version=python&form=python)
+
+  [**03. 条件判断**](https://code.xueersi.com/home/project/detail?lang=code&pid=3963986&version=python&form=python)
+
+  [**02. 年龄计算**](https://code.xueersi.com/home/project/detail?lang=code&pid=3936355&version=python&form=python)
+
+  [**01. 送给妈妈的礼物**](https://code.xueersi.com/home/project/detail?lang=code&pid=3906529&version=python&form=python)
 
 ## Scratch作品集合
 
-[**1. 识相全能**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=2413140&version=3.0)
+[**01. 识相全能**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=2413140&version=3.0)
 
-[**2. 水果忍者**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=2384576&version=3.0)
+[**02. 水果忍者**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=2384576&version=3.0)
 
-[**3. 风速查询-天气助手**](https://code.xueersi.com/home/project/detail?lang=code&pid=4229804&version=python&form=python)
+
 
 ## 想和我交朋友？
 
