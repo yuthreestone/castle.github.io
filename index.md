@@ -39,11 +39,41 @@
 
 ## Scratch作品集合
 
-[**01. 识相全能**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=2413140&version=3.0)
+  [**L3.18. 识相全能**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=2413140&version=3.0)
 
-[**02. 水果忍者**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=2384576&version=3.0)
+  [**L3.17. 水果忍者**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=2384576&version=3.0)
+  
+  [**L3.16. 智能手环**](https://code.xueersi.com/scratchmb/?pid=2078461&version=hw1.0&env=Community#/)
+  
+  [**L3.15. 数字艺术**](https://code.xueersi.com/scratchmb/?pid=2057282&version=hw1.0&env=Community#/)
+  
+  [**L3.14. 智能家居(二)**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=2007215&version=3.0)
+  
+  [**L3.13. 智能家居(一)**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=1955225&version=3.0)
+  
+  [**L3.12. 看图猜成语**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=1907832&version=3.0)
+  
+  [**L3.11. 植物大战僵尸(二)**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=1851210&version=3.0)
 
+  [**L3.10. 植物大战僵尸(一)**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=1803475&version=3.0)
 
+  [**L3.09. 双重机械臂**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=1753729&version=3.0)
+
+  [**L3.08. 小猫钓鱼**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=1710691&version=3.0)
+
+  [**L3.07. 计算器**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=1667303&version=3.0)
+
+  [**L3.06. 攻打敌机**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=1617695&version=3.0)
+
+  [**L3.05. 赛艇比赛**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=1578894&version=3.0)
+
+  [**L3.04. 小蝌蚪找妈妈(二)**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=1521257&version=3.0)
+
+  [**L3.03. 小蝌蚪找妈妈(一)**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=1521111&version=3.0)
+
+  [**L3.02. 可多的旅行(二)**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=1464266&version=3.0)
+
+  [**L3.01. 可多的旅行(一)**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=1419016&version=3.0)
 
 ## 想和我交朋友？
 
