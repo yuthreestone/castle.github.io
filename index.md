@@ -29,6 +29,8 @@
 
 [**2. 水果忍者**](https://code.xueersi.com/home/project/detail?lang=scratch&pid=2384576&version=3.0)
 
+[**3. 风速查询-天气助手**](https://code.xueersi.com/home/project/detail?lang=code&pid=4229804&version=python&form=python)
+
 ## 想和我交朋友？
 
 因为我还没有自己的手机和邮箱，如果您想和我交朋友，请给我的爸爸发邮件吧，他会第一时间转告我的。他的邮箱地址是：[**yuthreestone@gmail.com**](yuthreestone@gmail.com); [**yuthreestone@163.com**](yuthreestone@163.com); [**yulei@sxu.edu.cn**](yulei@sxu.edu.cn)。
